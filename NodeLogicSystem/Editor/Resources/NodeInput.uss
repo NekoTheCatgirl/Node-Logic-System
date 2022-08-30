@@ -1,0 +1,9 @@
+LogicNode #title
+{
+	background-color: lime;
+}
+
+LogicNode #IOField
+{
+    min-width: 80px;
+}

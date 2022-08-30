@@ -1,0 +1,18 @@
+{
+    "name": "NodeLogicSystem.Editor",
+    "rootNamespace": "NodeLogicSystem",
+    "references": [
+        "GUID:a5495d0c5b5b5234c88f905606a44eb3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
